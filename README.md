@@ -56,6 +56,5 @@ MySQL | Git | Version Control
   
 **"Building the backend that powers the future"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
