@@ -31,7 +31,7 @@ MySQL | Git | Version Control
 
 ### 🎓 Certifications & Education
 - 🏆 IBM Certified via Coursera
-- 🎓 HND in Mechatronics Engineering (Distinction)
+- 🎓 HND in Industrial Mechatronics Engineering (Distinction)
 - 💻 Software Engineering Student in view
 
 ### 🌱 Currently
